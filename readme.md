@@ -4,9 +4,10 @@
 
 These are my projects...
 - - - 
-## Halloween Horror
+# Halloween Horror
 [Sketch 1](./sketch/halloween/)
-- Description
+## Description:
+
 <iframe src ="./sketch/halloween/"></iframe>
 
 Sketch 2
