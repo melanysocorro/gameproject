@@ -7,7 +7,7 @@ let word;
 function setup() {
    words =  ["boo!","ghosts!","ghouls!","spooky!","terror!", "witches!","evil!","happy halloween!"]
   word = random(words)
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   halloweenWords.push({text:word,x:60,y:60});
 }
 
