@@ -11,7 +11,7 @@ These are my projects...
 <iframe src ="./sketch/halloween/"></iframe>
 
 # Pacman
-[Sketch 2](./pacman/)
+[Sketch 2](./pacman/pacman)
 ## Description:
 <iframe src ="./pacman/"></iframe>
 
