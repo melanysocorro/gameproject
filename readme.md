@@ -14,7 +14,7 @@ These are my projects...
 [Sketch 2](./pacman/pacman/)
 ## Description:
 
-<iframe src ="./pacman/pacman"></iframe>
+<iframe src ="./pacman/pacman/"></iframe>
 
 
 Sketch 3
