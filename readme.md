@@ -10,6 +10,10 @@ These are my projects...
 
 <iframe src ="./sketch/halloween/"></iframe>
 
-Sketch 2
+# Pacman
+[Sketch 2](./pacman/)
+## Description:
+<iframe src ="./pacman/"></iframe>
+
 
 Sketch 3
