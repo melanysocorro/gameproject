@@ -16,5 +16,8 @@ These are my projects...
 
 <iframe src ="./pacman/pacman/"></iframe>
 
+# Game 
+[Lab 6](./sketch/game/)
+## Description:
 
-Sketch 3
+<iframe src ="./sketch/game/"></iframe>
