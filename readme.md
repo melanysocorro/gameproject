@@ -33,5 +33,8 @@ These are my projects...
 ## Description:
 Consent is an essential aspect of what it means to be a human being, Consent is common sense, and it is too often neglected, violated, and overlooked in our contemporary society. Hands Off is a simple 5-level game that involves the player respecting the boundaries of other characters or risking the loss of their common sense. To win this game, you must attain common sense. It may not always be as easy as it sounds.
 
-[Final Project](./handsoff/)
+[Final Project](./handsoff/) ← Click me to play!
+
+Preview:
 <iframe src ="./handsoff/"></iframe>
+
